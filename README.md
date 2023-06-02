@@ -59,7 +59,8 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[The Portfolio: Setup and Mobile-First Project is a portfolio project that showcases the work of Developer Fentahun Agmas. It includes specific social media links and descriptions related to the developer's background and skills.]**
+- **[Portfolio: setup and mobile first project is a developer's portfolio project in which you can get Developer Fentahun Agmas's specific social media links and some descriptions.]**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,8 +97,9 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd my-folder(in your computer machine)
-  git git@github.com:Fentahunn/portfolio_one.git
+  cd my-folder(your working machine)
+  git clone git@github.com:Fentahunn/portfolio_one.git
+
 ```
 
 
@@ -144,7 +146,8 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 
 - [ ] **[There will be an about-me section and a form that will be used to contact the developer.]**
-- [ ] **[Responsive website for different screen sizes like desktop version, and also it will be done with the combination of bootstarp.]**
+
+- [ ] **[Responsive website for different screen sizes like desktop or tablet .]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +173,11 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+
+I am thankful for microvese community!
+
 I am greateful for microvese community!
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
